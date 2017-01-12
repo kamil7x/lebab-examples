@@ -1,0 +1,22 @@
+{
+  "name": "lebab-examples",
+  "version": "0.1.0",
+  "description": "Examples for Lebab usage",
+  "main": "index.js",
+  "dependencies": {
+    "lebab": "^2.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kamil7x/lebab-examples.git"
+  },
+  "author": "Kamil Trusiak",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kamil7x/lebab-examples/issues"
+  }
+}
